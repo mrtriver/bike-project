@@ -9,7 +9,7 @@ import Admin from './user/pages/Admin';
 function App() {
   return (
     <div className='body_section' >
-      <ButtonAppBar />
+     
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<HomePage />} />

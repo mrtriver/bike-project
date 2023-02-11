@@ -1,15 +1,19 @@
-body{
+body {
     box-sizing: border-box;
     height: 100%;
     margin-top: 0;
-}
-
-#root{
+  }
+  
+  #root {
     height: 100%;
     width: 100%;
-}
-
-.home_section {
+  }
+  
+  .home_section {
     height: 100%;
     width: 100%;
-}
+    background-image: url('../../images/bckgrnd.jpg');
+
+    background-size: cover;
+  }
+  
