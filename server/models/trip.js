@@ -1,3 +1,6 @@
+//Here is the model for the trip. It has a start date, end date, duration, start station, end station, rider, and bike. The rider and bike are both references to the user and bike models.
+
+
 
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
